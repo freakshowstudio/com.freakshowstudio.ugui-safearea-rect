@@ -1,0 +1,12 @@
+{
+  "name": "com.freakshowstudio.ugui-safearea-rect",
+  "displayName": "uGUI SafeArea Rect",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "Adjust uGUI screen rect to device safe areas",
+  "keywords": [],
+  "category": "Scripting",
+  "dependencies": {
+    "com.freakshowstudio.create-gameobject-attribute": "1.0.0"
+  }
+}

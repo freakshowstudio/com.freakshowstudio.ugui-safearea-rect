@@ -1,0 +1,7 @@
+{
+    "name": "FreakshowStudio.SafeAreaRect.Runtime",
+    "rootNamespace": "FreakshowStudio.SafeAreaRect.Runtime",
+    "references":[
+      "FreakshowStudio.CreateGameObjectAttribute.Runtime"
+    ]
+}
