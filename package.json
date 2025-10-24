@@ -1,7 +1,7 @@
 {
   "name": "com.freakshowstudio.ugui-safearea-rect",
   "displayName": "uGUI SafeArea Rect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "6000.0",
   "description": "Adjust uGUI screen rect to device safe areas",
   "keywords": [],
