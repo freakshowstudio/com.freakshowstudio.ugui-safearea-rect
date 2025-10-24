@@ -8,5 +8,14 @@
   "category": "Scripting",
   "dependencies": {
     "com.freakshowstudio.create-gameobject-attribute": "1.0.0"
-  }
+  },
+  "author": {
+    "name": "Freakshow Studio AS",
+    "url": "https://github.com/freakshowstudio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freakshowstudio/com.freakshowstudio.ugui-safearea-rect"
+  },
+  "license": "MIT"
 }
